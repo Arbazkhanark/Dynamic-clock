@@ -2,10 +2,10 @@
     margin: 0px;
 }
 body{
-    background-color: rgb(173, 110, 110);
+    background-color: rgba(11, 7, 7, 0.921);
 }
 .container{
-    height: 700px;
+    height: 600px;
     margin: 20px;
 }
 
@@ -15,11 +15,28 @@ body{
     height: 200px;
     display: inline-block;
     position: relative;
-    top: 300px;
-    left: 130px;
+    top: 150px;
+    left: 140px;
     text-align: center;
 }
 h1{
-    margin-top:100px;
-    margin-bottom: 100px;
+    margin-top: 20px;
+    font-size: 130px;
+}
+h2{
+    border: 1px solid white;
+    color:aliceblue;
+    position: relative;
+    top: 35px;
+}
+footer{
+    color:white;
+    text-align: center;
+}
+.container p{
+    color:white;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    top: 65px;
 }

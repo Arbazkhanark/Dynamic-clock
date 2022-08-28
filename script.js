@@ -1,5 +1,7 @@
 'use strict'
 
+
+// setInterval function helps to recall a function or execute  a code snippet, with a fixed time delay between each call.
 setInterval(() => {
     const clock=new Date();
 
